@@ -31,7 +31,7 @@
             <groupId>commons-net</groupId>
             <artifactId>commons-net</artifactId>
         </dependency>
-        <!-- Jackson Json处理工具包 -->
+        <!--jackson-->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
